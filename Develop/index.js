@@ -16,11 +16,11 @@ const questions = ([
         name: "description",
         message: 'Please enter a description of your project'
     },
-    {
-        type: 'input',
-        name: 'table',
-        message: ''
-    },
+    // {
+    //     type: 'input',
+    //     name: 'table',
+    //     message: ''
+    // },
     {
         type: 'input',
         name: 'installation',
