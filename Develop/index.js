@@ -16,11 +16,6 @@ const questions = ([
         name: "description",
         message: 'Please enter a description of your project'
     },
-    // {
-    //     type: 'input',
-    //     name: 'table',
-    //     message: ''
-    // },
     {
         type: 'input',
         name: 'installation',
@@ -35,7 +30,7 @@ const questions = ([
         type: 'list',
         name: 'license',
         message: 'What license does this project have?',
-        choices: ['license 1', 'license 2', 'license 3', 'license 4']
+        choices: ['MIT', 'GNU GPL v3', 'PDDL']
     },
     {
         type: 'input',

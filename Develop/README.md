@@ -1,8 +1,8 @@
 
-  # tes2 
+  # Professional ReadMe Generator 
 
   ## Description-
-  test5
+  This project creates a README file using Node.js
 
   ## Table of Contents-
   - [Installation](#installation)
@@ -14,28 +14,28 @@
 
   ## Installation   
   Use these instructions to help with installation:
-  test 5
+  Please clone the code and run your js file
 
   ## Usage   
   Examples for use:
-  dlndfb
+  There are examples on the Github website
 
   ## License
   This project use this license:
-  license 3
+  GNU GPL v3
 
   ## Contributing   
   List any collaborating Github users:
-  dufbvuoser
+  This project is open for contributions on Github
 
   ## Tests  
   Examples of tests used to build this app:
-  sergiljergij
+  There were no tests
 
   ## Questions   
   If you have any questions contact me by my username or email:   
   Username-
-  ewroigjerg   
+  kmcpherson49   
   Email-
-  erogng
+  kmcpherson49@gmail.com
 
