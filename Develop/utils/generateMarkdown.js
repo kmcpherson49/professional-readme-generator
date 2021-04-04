@@ -26,23 +26,31 @@ function generateMarkdown(data) {
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ## Installation-
+  ## Installation   
+  Use these instructions to help with installation:
   ${data.installation}
 
-  ## Usage-
+  ## Usage   
+  Examples for use:
   ${data.usage}
 
-  ## License-
+  ## License
+  This project use this license:
   ${data.license}
 
-  ## Contributing-
+  ## Contributing   
+  List any collaborating Github users:
   ${data.contributing}
 
-  ## Tests-
+  ## Tests  
+  Examples of tests used to build this app:
   ${data.tests}
 
-  ## Questions
-  ${data.username}
+  ## Questions   
+  If you have any questions contact me by my username or email:   
+  Username-
+  ${data.username}   
+  Email-
   ${data.email}
 
 `;
